@@ -1,0 +1,2 @@
+# TypeScriptAuth
+Contains typescript authentication 
